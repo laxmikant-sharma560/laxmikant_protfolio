@@ -1,0 +1,25 @@
+{
+    "short_name": "Laxmikant's Portfolio",
+    "name": "Laxmikant's Portfolio ",
+    "icons": [
+      {
+        "src": "laxmikant-1.png.jpg",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+      },
+      {
+        "src": "laxmikant-1.png.jpg",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "laxmikant-1.png.jpg",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#ffffff00",
+    "background_color": "#ffffff00"
+  }
